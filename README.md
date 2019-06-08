@@ -13,7 +13,12 @@ LIST genre:'genre'
 At first, "INPUT month_name" must be entered to determine the url and creating a txt file.
 
 LIST ==> List all of the movie names
+
 LIST from:YYYY/MM/DD ==> List the movie names which is released at this date and after this date.
+
 LIST from:YYYY/MM/DD to:YYYY/MM/DD ==> List the movie names which is released between these two dates.
+
 INFO:'movie_name' ==> All information about the movie
+
 LIST genre:'genre' ==> List the movie names which has this genre.
+
